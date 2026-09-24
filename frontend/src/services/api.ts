@@ -5,7 +5,7 @@ import {
   Approval, AuditLog, DashboardAnalytics, BeforeAfterAnalytics
 } from '../types';
 
-const API_BASE_URL = 'http://localhost:8000/api/v1';
+const API_BASE_URL = 'https://patri-backend.onrender.com/api/v1';
 
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
