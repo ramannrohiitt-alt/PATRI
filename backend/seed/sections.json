@@ -1,0 +1,152 @@
+[
+  {
+    "code": "SEC-001",
+    "from": "NDLS",
+    "to": "TKJ",
+    "len": 2.5,
+    "tracks": 4,
+    "speed": 110,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-002",
+    "from": "TKJ",
+    "to": "NZM",
+    "len": 4.8,
+    "tracks": 4,
+    "speed": 120,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-003",
+    "from": "NZM",
+    "to": "FDB",
+    "len": 21.3,
+    "tracks": 3,
+    "speed": 130,
+    "status": "Critical/Conflict",
+    "risk": "High"
+  },
+  {
+    "code": "SEC-004",
+    "from": "FDB",
+    "to": "PWL",
+    "len": 29.5,
+    "tracks": 3,
+    "speed": 130,
+    "status": "Planned Maintenance",
+    "risk": "Medium"
+  },
+  {
+    "code": "SEC-005",
+    "from": "NDLS",
+    "to": "DSA",
+    "len": 7.2,
+    "tracks": 2,
+    "speed": 100,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-006",
+    "from": "DSA",
+    "to": "SBB",
+    "len": 7.8,
+    "tracks": 2,
+    "speed": 110,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-007",
+    "from": "SBB",
+    "to": "GZB",
+    "len": 6.5,
+    "tracks": 4,
+    "speed": 130,
+    "status": "Active Block",
+    "risk": "Medium"
+  },
+  {
+    "code": "SEC-008",
+    "from": "ANVT",
+    "to": "SBB",
+    "len": 4.2,
+    "tracks": 2,
+    "speed": 110,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-009",
+    "from": "NDLS",
+    "to": "DEC",
+    "len": 14.1,
+    "tracks": 2,
+    "speed": 110,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-010",
+    "from": "TKJ",
+    "to": "DSA",
+    "len": 5.8,
+    "tracks": 2,
+    "speed": 100,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-011",
+    "from": "GZB",
+    "to": "ANVT",
+    "len": 12.4,
+    "tracks": 2,
+    "speed": 120,
+    "status": "Planned Maintenance",
+    "risk": "Medium"
+  },
+  {
+    "code": "SEC-012",
+    "from": "NZM",
+    "to": "ANVT",
+    "len": 9.5,
+    "tracks": 2,
+    "speed": 110,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-013",
+    "from": "PWL",
+    "to": "FDB",
+    "len": 29.5,
+    "tracks": 3,
+    "speed": 130,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-014",
+    "from": "GZB",
+    "to": "NDLS",
+    "len": 24.5,
+    "tracks": 4,
+    "speed": 130,
+    "status": "Available",
+    "risk": "Low"
+  },
+  {
+    "code": "SEC-015",
+    "from": "DEC",
+    "to": "NZM",
+    "len": 16.2,
+    "tracks": 2,
+    "speed": 110,
+    "status": "Available",
+    "risk": "Low"
+  }
+]

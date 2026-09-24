@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "section_id": 1,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 2,
+    "probability": 0.33
+  },
+  {
+    "id": 2,
+    "section_id": 1,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 3,
+    "probability": 0.85
+  },
+  {
+    "id": 3,
+    "section_id": 2,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 3,
+    "probability": 0.17
+  },
+  {
+    "id": 4,
+    "section_id": 2,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 5,
+    "probability": 0.73
+  },
+  {
+    "id": 5,
+    "section_id": 3,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 2,
+    "probability": 0.27
+  },
+  {
+    "id": 6,
+    "section_id": 3,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 3,
+    "probability": 0.89
+  },
+  {
+    "id": 7,
+    "section_id": 4,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 3,
+    "probability": 0.28
+  },
+  {
+    "id": 8,
+    "section_id": 4,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 2,
+    "probability": 0.89
+  },
+  {
+    "id": 9,
+    "section_id": 5,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 3,
+    "probability": 0.44
+  },
+  {
+    "id": 10,
+    "section_id": 5,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 3,
+    "probability": 0.85
+  },
+  {
+    "id": 11,
+    "section_id": 6,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 1,
+    "probability": 0.31
+  },
+  {
+    "id": 12,
+    "section_id": 6,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 4,
+    "probability": 0.81
+  },
+  {
+    "id": 13,
+    "section_id": 7,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 1,
+    "probability": 0.39
+  },
+  {
+    "id": 14,
+    "section_id": 7,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 5,
+    "probability": 0.83
+  },
+  {
+    "id": 15,
+    "section_id": 8,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 2,
+    "probability": 0.31
+  },
+  {
+    "id": 16,
+    "section_id": 8,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 2,
+    "probability": 0.66
+  },
+  {
+    "id": 17,
+    "section_id": 9,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 1,
+    "probability": 0.25
+  },
+  {
+    "id": 18,
+    "section_id": 9,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 2,
+    "probability": 0.74
+  },
+  {
+    "id": 19,
+    "section_id": 10,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 3,
+    "probability": 0.41
+  },
+  {
+    "id": 20,
+    "section_id": 10,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 5,
+    "probability": 0.78
+  },
+  {
+    "id": 21,
+    "section_id": 11,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 2,
+    "probability": 0.21
+  },
+  {
+    "id": 22,
+    "section_id": 11,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 2,
+    "probability": 0.67
+  },
+  {
+    "id": 23,
+    "section_id": 12,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 3,
+    "probability": 0.34
+  },
+  {
+    "id": 24,
+    "section_id": 12,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 5,
+    "probability": 0.68
+  },
+  {
+    "id": 25,
+    "section_id": 13,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 1,
+    "probability": 0.36
+  },
+  {
+    "id": 26,
+    "section_id": 13,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 4,
+    "probability": 0.79
+  },
+  {
+    "id": 27,
+    "section_id": 14,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 2,
+    "probability": 0.2
+  },
+  {
+    "id": 28,
+    "section_id": 14,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 3,
+    "probability": 0.85
+  },
+  {
+    "id": 29,
+    "section_id": 15,
+    "time_window_start": "2026-09-06T01:00:00",
+    "time_window_end": "2026-09-06T05:00:00",
+    "expected_trains": 3,
+    "probability": 0.42
+  },
+  {
+    "id": 30,
+    "section_id": 15,
+    "time_window_start": "2026-09-06T13:00:00",
+    "time_window_end": "2026-09-06T17:00:00",
+    "expected_trains": 3,
+    "probability": 0.83
+  }
+]

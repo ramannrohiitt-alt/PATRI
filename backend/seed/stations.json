@@ -1,0 +1,82 @@
+[
+  {
+    "code": "NDLS",
+    "name": "New Delhi",
+    "lat": 28.6429,
+    "lng": 77.2195,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "GZB",
+    "name": "Ghaziabad Junction",
+    "lat": 28.6678,
+    "lng": 77.4326,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "ANVT",
+    "name": "Anand Vihar Terminal",
+    "lat": 28.6508,
+    "lng": 77.3153,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "NZM",
+    "name": "Hazrat Nizamuddin",
+    "lat": 28.5888,
+    "lng": 77.2536,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "FDB",
+    "name": "Faridabad",
+    "lat": 28.4089,
+    "lng": 77.3178,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "PWL",
+    "name": "Palwal",
+    "lat": 28.1447,
+    "lng": 77.326,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "DSA",
+    "name": "Delhi Shahdara",
+    "lat": 28.6738,
+    "lng": 77.2915,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "SBB",
+    "name": "Sahibabad",
+    "lat": 28.6722,
+    "lng": 77.3683,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "TKJ",
+    "name": "Tilak Bridge",
+    "lat": 28.6255,
+    "lng": 77.2415,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "code": "DEC",
+    "name": "Delhi Cantt",
+    "lat": 28.5957,
+    "lng": 77.1264,
+    "zone": "NR",
+    "division": "Delhi"
+  }
+]

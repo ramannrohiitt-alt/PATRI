@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "crew_code": "CRW-01",
+    "name": "Permanent Way Maintenance Gang #1",
+    "department_id": 1,
+    "size": 10,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 2,
+    "crew_code": "CRW-02",
+    "name": "Signal Maintenance Squad #2",
+    "department_id": 2,
+    "size": 12,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  },
+  {
+    "id": 3,
+    "crew_code": "CRW-03",
+    "name": "OHE Tower Wagon Crew #3",
+    "department_id": 3,
+    "size": 10,
+    "skills": "Catenary Height Stagger Adjustment, Insulator Washing"
+  },
+  {
+    "id": 4,
+    "crew_code": "CRW-04",
+    "name": "Permanent Way Maintenance Gang #4",
+    "department_id": 1,
+    "size": 10,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 5,
+    "crew_code": "CRW-05",
+    "name": "Signal Maintenance Squad #5",
+    "department_id": 2,
+    "size": 9,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  },
+  {
+    "id": 6,
+    "crew_code": "CRW-06",
+    "name": "OHE Tower Wagon Crew #6",
+    "department_id": 3,
+    "size": 7,
+    "skills": "Catenary Height Stagger Adjustment, Insulator Washing"
+  },
+  {
+    "id": 7,
+    "crew_code": "CRW-07",
+    "name": "Permanent Way Maintenance Gang #7",
+    "department_id": 1,
+    "size": 12,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 8,
+    "crew_code": "CRW-08",
+    "name": "Signal Maintenance Squad #8",
+    "department_id": 2,
+    "size": 9,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  },
+  {
+    "id": 9,
+    "crew_code": "CRW-09",
+    "name": "OHE Tower Wagon Crew #9",
+    "department_id": 3,
+    "size": 11,
+    "skills": "Catenary Height Stagger Adjustment, Insulator Washing"
+  },
+  {
+    "id": 10,
+    "crew_code": "CRW-10",
+    "name": "Permanent Way Maintenance Gang #10",
+    "department_id": 1,
+    "size": 10,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 11,
+    "crew_code": "CRW-11",
+    "name": "Signal Maintenance Squad #11",
+    "department_id": 2,
+    "size": 10,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  },
+  {
+    "id": 12,
+    "crew_code": "CRW-12",
+    "name": "OHE Tower Wagon Crew #12",
+    "department_id": 3,
+    "size": 7,
+    "skills": "Catenary Height Stagger Adjustment, Insulator Washing"
+  },
+  {
+    "id": 13,
+    "crew_code": "CRW-13",
+    "name": "Permanent Way Maintenance Gang #13",
+    "department_id": 1,
+    "size": 6,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 14,
+    "crew_code": "CRW-14",
+    "name": "Signal Maintenance Squad #14",
+    "department_id": 2,
+    "size": 6,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  },
+  {
+    "id": 15,
+    "crew_code": "CRW-15",
+    "name": "OHE Tower Wagon Crew #15",
+    "department_id": 3,
+    "size": 6,
+    "skills": "Catenary Height Stagger Adjustment, Insulator Washing"
+  },
+  {
+    "id": 16,
+    "crew_code": "CRW-16",
+    "name": "Permanent Way Maintenance Gang #16",
+    "department_id": 1,
+    "size": 11,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 17,
+    "crew_code": "CRW-17",
+    "name": "Signal Maintenance Squad #17",
+    "department_id": 2,
+    "size": 11,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  },
+  {
+    "id": 18,
+    "crew_code": "CRW-18",
+    "name": "OHE Tower Wagon Crew #18",
+    "department_id": 3,
+    "size": 11,
+    "skills": "Catenary Height Stagger Adjustment, Insulator Washing"
+  },
+  {
+    "id": 19,
+    "crew_code": "CRW-19",
+    "name": "Permanent Way Maintenance Gang #19",
+    "department_id": 1,
+    "size": 8,
+    "skills": "Track Tamping, Rail Welding, Gauge Correction"
+  },
+  {
+    "id": 20,
+    "crew_code": "CRW-20",
+    "name": "Signal Maintenance Squad #20",
+    "department_id": 2,
+    "size": 11,
+    "skills": "Interlocking Testing, Point Machine Overhaul"
+  }
+]

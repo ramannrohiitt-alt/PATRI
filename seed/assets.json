@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "asset_code": "AST-SEC-010-001",
+    "name": "25kV / 21.6MVA Power Transformer #1",
+    "section_id": 10,
+    "department_id": 3,
+    "type": "Traction Transformer",
+    "condition": "Good",
+    "health_score": 88.6
+  },
+  {
+    "id": 2,
+    "asset_code": "AST-SEC-006-002",
+    "name": "107 sq mm Hard Drawn Copper #2",
+    "section_id": 6,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 94.3
+  },
+  {
+    "id": 3,
+    "asset_code": "AST-SEC-012-003",
+    "name": "Digital Axle Counter Multi-Section #3",
+    "section_id": 12,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Fair",
+    "health_score": 85.0
+  },
+  {
+    "id": 4,
+    "asset_code": "AST-SEC-013-004",
+    "name": "107 sq mm Hard Drawn Copper #4",
+    "section_id": 13,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 90.5
+  },
+  {
+    "id": 5,
+    "asset_code": "AST-SEC-013-005",
+    "name": "60kg 90UTS Rail Line #5",
+    "section_id": 13,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Worn",
+    "health_score": 74.8
+  },
+  {
+    "id": 6,
+    "asset_code": "AST-SEC-010-006",
+    "name": "IRS Point Machine 220V #6",
+    "section_id": 10,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Good",
+    "health_score": 96.3
+  },
+  {
+    "id": 7,
+    "asset_code": "AST-SEC-007-007",
+    "name": "IRS Point Machine 220V #7",
+    "section_id": 7,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Good",
+    "health_score": 87.6
+  },
+  {
+    "id": 8,
+    "asset_code": "AST-SEC-002-008",
+    "name": "Composite Insulator Swivelling Cantilever #8",
+    "section_id": 2,
+    "department_id": 3,
+    "type": "Cantilever Assembly",
+    "condition": "Fair",
+    "health_score": 82.2
+  },
+  {
+    "id": 9,
+    "asset_code": "AST-SEC-009-009",
+    "name": "Motorized Gang Operated Switch #9",
+    "section_id": 9,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Fair",
+    "health_score": 83.4
+  },
+  {
+    "id": 10,
+    "asset_code": "AST-SEC-014-010",
+    "name": "4-Aspect LED Signal Post #10",
+    "section_id": 14,
+    "department_id": 2,
+    "type": "Colour Light Signal",
+    "condition": "Worn",
+    "health_score": 72.4
+  },
+  {
+    "id": 11,
+    "asset_code": "AST-SEC-009-011",
+    "name": "4-Aspect LED Signal Post #11",
+    "section_id": 9,
+    "department_id": 2,
+    "type": "Colour Light Signal",
+    "condition": "Worn",
+    "health_score": 72.2
+  },
+  {
+    "id": 12,
+    "asset_code": "AST-SEC-007-012",
+    "name": "Audio Frequency Track Circuit (AFTC) #12",
+    "section_id": 7,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Fair",
+    "health_score": 82.6
+  },
+  {
+    "id": 13,
+    "asset_code": "AST-SEC-009-013",
+    "name": "Digital Axle Counter Multi-Section #13",
+    "section_id": 9,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Fair",
+    "health_score": 75.2
+  },
+  {
+    "id": 14,
+    "asset_code": "AST-SEC-010-014",
+    "name": "IRS Point Machine 220V #14",
+    "section_id": 10,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Critical",
+    "health_score": 54.0
+  },
+  {
+    "id": 15,
+    "asset_code": "AST-SEC-008-015",
+    "name": "Cushion Depth 350mm Ballast #15",
+    "section_id": 8,
+    "department_id": 1,
+    "type": "Ballast Bed",
+    "condition": "Good",
+    "health_score": 85.4
+  },
+  {
+    "id": 16,
+    "asset_code": "AST-SEC-005-016",
+    "name": "Digital Axle Counter Multi-Section #16",
+    "section_id": 5,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Fair",
+    "health_score": 76.6
+  },
+  {
+    "id": 17,
+    "asset_code": "AST-SEC-001-017",
+    "name": "Digital Axle Counter Multi-Section #17",
+    "section_id": 1,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Good",
+    "health_score": 92.6
+  },
+  {
+    "id": 18,
+    "asset_code": "AST-SEC-013-018",
+    "name": "G3L Insulated Joint #18",
+    "section_id": 13,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Good",
+    "health_score": 94.9
+  },
+  {
+    "id": 19,
+    "asset_code": "AST-SEC-013-019",
+    "name": "Turnout No. 12 Curved #19",
+    "section_id": 13,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Fair",
+    "health_score": 83.9
+  },
+  {
+    "id": 20,
+    "asset_code": "AST-SEC-010-020",
+    "name": "107 sq mm Hard Drawn Copper #20",
+    "section_id": 10,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 88.0
+  },
+  {
+    "id": 21,
+    "asset_code": "AST-SEC-010-021",
+    "name": "Composite Insulator Swivelling Cantilever #21",
+    "section_id": 10,
+    "department_id": 3,
+    "type": "Cantilever Assembly",
+    "condition": "Fair",
+    "health_score": 75.3
+  },
+  {
+    "id": 22,
+    "asset_code": "AST-SEC-015-022",
+    "name": "107 sq mm Hard Drawn Copper #22",
+    "section_id": 15,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Fair",
+    "health_score": 80.5
+  },
+  {
+    "id": 23,
+    "asset_code": "AST-SEC-015-023",
+    "name": "4-Aspect LED Signal Post #23",
+    "section_id": 15,
+    "department_id": 2,
+    "type": "Colour Light Signal",
+    "condition": "Good",
+    "health_score": 93.6
+  },
+  {
+    "id": 24,
+    "asset_code": "AST-SEC-008-024",
+    "name": "25kV / 21.6MVA Power Transformer #24",
+    "section_id": 8,
+    "department_id": 3,
+    "type": "Traction Transformer",
+    "condition": "Good",
+    "health_score": 97.1
+  },
+  {
+    "id": 25,
+    "asset_code": "AST-SEC-001-025",
+    "name": "Composite Insulator Swivelling Cantilever #25",
+    "section_id": 1,
+    "department_id": 3,
+    "type": "Cantilever Assembly",
+    "condition": "Good",
+    "health_score": 92.0
+  },
+  {
+    "id": 26,
+    "asset_code": "AST-SEC-001-026",
+    "name": "Digital Axle Counter Multi-Section #26",
+    "section_id": 1,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Good",
+    "health_score": 85.9
+  },
+  {
+    "id": 27,
+    "asset_code": "AST-SEC-001-027",
+    "name": "Cushion Depth 350mm Ballast #27",
+    "section_id": 1,
+    "department_id": 1,
+    "type": "Ballast Bed",
+    "condition": "Critical",
+    "health_score": 54.0
+  },
+  {
+    "id": 28,
+    "asset_code": "AST-SEC-007-028",
+    "name": "60kg 90UTS Rail Line #28",
+    "section_id": 7,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Good",
+    "health_score": 89.7
+  },
+  {
+    "id": 29,
+    "asset_code": "AST-SEC-003-029",
+    "name": "107 sq mm Hard Drawn Copper #29",
+    "section_id": 3,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Worn",
+    "health_score": 72.7
+  },
+  {
+    "id": 30,
+    "asset_code": "AST-SEC-001-030",
+    "name": "Audio Frequency Track Circuit (AFTC) #30",
+    "section_id": 1,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Fair",
+    "health_score": 81.7
+  },
+  {
+    "id": 31,
+    "asset_code": "AST-SEC-006-031",
+    "name": "60kg 90UTS Rail Line #31",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Worn",
+    "health_score": 72.1
+  },
+  {
+    "id": 32,
+    "asset_code": "AST-SEC-002-032",
+    "name": "Motorized Gang Operated Switch #32",
+    "section_id": 2,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Fair",
+    "health_score": 82.3
+  },
+  {
+    "id": 33,
+    "asset_code": "AST-SEC-007-033",
+    "name": "60kg 90UTS Rail Line #33",
+    "section_id": 7,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Good",
+    "health_score": 87.4
+  },
+  {
+    "id": 34,
+    "asset_code": "AST-SEC-011-034",
+    "name": "107 sq mm Hard Drawn Copper #34",
+    "section_id": 11,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 90.4
+  },
+  {
+    "id": 35,
+    "asset_code": "AST-SEC-012-035",
+    "name": "IRS Point Machine 220V #35",
+    "section_id": 12,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Worn",
+    "health_score": 73.4
+  },
+  {
+    "id": 36,
+    "asset_code": "AST-SEC-012-036",
+    "name": "Composite Insulator Swivelling Cantilever #36",
+    "section_id": 12,
+    "department_id": 3,
+    "type": "Cantilever Assembly",
+    "condition": "Good",
+    "health_score": 98.2
+  },
+  {
+    "id": 37,
+    "asset_code": "AST-SEC-004-037",
+    "name": "Audio Frequency Track Circuit (AFTC) #37",
+    "section_id": 4,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Fair",
+    "health_score": 82.0
+  },
+  {
+    "id": 38,
+    "asset_code": "AST-SEC-011-038",
+    "name": "107 sq mm Hard Drawn Copper #38",
+    "section_id": 11,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Fair",
+    "health_score": 75.6
+  },
+  {
+    "id": 39,
+    "asset_code": "AST-SEC-007-039",
+    "name": "107 sq mm Hard Drawn Copper #39",
+    "section_id": 7,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 97.3
+  },
+  {
+    "id": 40,
+    "asset_code": "AST-SEC-002-040",
+    "name": "G3L Insulated Joint #40",
+    "section_id": 2,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Good",
+    "health_score": 89.4
+  },
+  {
+    "id": 41,
+    "asset_code": "AST-SEC-012-041",
+    "name": "Audio Frequency Track Circuit (AFTC) #41",
+    "section_id": 12,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Good",
+    "health_score": 96.8
+  },
+  {
+    "id": 42,
+    "asset_code": "AST-SEC-007-042",
+    "name": "Digital Axle Counter Multi-Section #42",
+    "section_id": 7,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Fair",
+    "health_score": 75.9
+  },
+  {
+    "id": 43,
+    "asset_code": "AST-SEC-006-043",
+    "name": "G3L Insulated Joint #43",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Good",
+    "health_score": 86.9
+  },
+  {
+    "id": 44,
+    "asset_code": "AST-SEC-007-044",
+    "name": "Cushion Depth 350mm Ballast #44",
+    "section_id": 7,
+    "department_id": 1,
+    "type": "Ballast Bed",
+    "condition": "Good",
+    "health_score": 93.1
+  },
+  {
+    "id": 45,
+    "asset_code": "AST-SEC-005-045",
+    "name": "Motorized Gang Operated Switch #45",
+    "section_id": 5,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Fair",
+    "health_score": 83.2
+  },
+  {
+    "id": 46,
+    "asset_code": "AST-SEC-001-046",
+    "name": "G3L Insulated Joint #46",
+    "section_id": 1,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Worn",
+    "health_score": 74.9
+  },
+  {
+    "id": 47,
+    "asset_code": "AST-SEC-006-047",
+    "name": "4-Aspect LED Signal Post #47",
+    "section_id": 6,
+    "department_id": 2,
+    "type": "Colour Light Signal",
+    "condition": "Good",
+    "health_score": 94.2
+  },
+  {
+    "id": 48,
+    "asset_code": "AST-SEC-013-048",
+    "name": "Digital Axle Counter Multi-Section #48",
+    "section_id": 13,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Fair",
+    "health_score": 79.7
+  },
+  {
+    "id": 49,
+    "asset_code": "AST-SEC-011-049",
+    "name": "Turnout No. 12 Curved #49",
+    "section_id": 11,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Fair",
+    "health_score": 77.6
+  },
+  {
+    "id": 50,
+    "asset_code": "AST-SEC-002-050",
+    "name": "IRS Point Machine 220V #50",
+    "section_id": 2,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Good",
+    "health_score": 93.5
+  },
+  {
+    "id": 51,
+    "asset_code": "AST-SEC-003-051",
+    "name": "25kV / 21.6MVA Power Transformer #51",
+    "section_id": 3,
+    "department_id": 3,
+    "type": "Traction Transformer",
+    "condition": "Good",
+    "health_score": 90.3
+  },
+  {
+    "id": 52,
+    "asset_code": "AST-SEC-009-052",
+    "name": "107 sq mm Hard Drawn Copper #52",
+    "section_id": 9,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Critical",
+    "health_score": 54.0
+  },
+  {
+    "id": 53,
+    "asset_code": "AST-SEC-002-053",
+    "name": "Digital Axle Counter Multi-Section #53",
+    "section_id": 2,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Good",
+    "health_score": 88.0
+  },
+  {
+    "id": 54,
+    "asset_code": "AST-SEC-013-054",
+    "name": "25kV / 21.6MVA Power Transformer #54",
+    "section_id": 13,
+    "department_id": 3,
+    "type": "Traction Transformer",
+    "condition": "Fair",
+    "health_score": 78.9
+  },
+  {
+    "id": 55,
+    "asset_code": "AST-SEC-010-055",
+    "name": "Audio Frequency Track Circuit (AFTC) #55",
+    "section_id": 10,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Good",
+    "health_score": 92.2
+  },
+  {
+    "id": 56,
+    "asset_code": "AST-SEC-008-056",
+    "name": "Motorized Gang Operated Switch #56",
+    "section_id": 8,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Good",
+    "health_score": 86.9
+  },
+  {
+    "id": 57,
+    "asset_code": "AST-SEC-014-057",
+    "name": "107 sq mm Hard Drawn Copper #57",
+    "section_id": 14,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 92.2
+  },
+  {
+    "id": 58,
+    "asset_code": "AST-SEC-011-058",
+    "name": "107 sq mm Hard Drawn Copper #58",
+    "section_id": 11,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 89.4
+  },
+  {
+    "id": 59,
+    "asset_code": "AST-SEC-006-059",
+    "name": "Turnout No. 12 Curved #59",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Worn",
+    "health_score": 70.5
+  },
+  {
+    "id": 60,
+    "asset_code": "AST-SEC-012-060",
+    "name": "Motorized Gang Operated Switch #60",
+    "section_id": 12,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Worn",
+    "health_score": 70.3
+  },
+  {
+    "id": 61,
+    "asset_code": "AST-SEC-009-061",
+    "name": "Turnout No. 12 Curved #61",
+    "section_id": 9,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Good",
+    "health_score": 97.1
+  },
+  {
+    "id": 62,
+    "asset_code": "AST-SEC-004-062",
+    "name": "Turnout No. 12 Curved #62",
+    "section_id": 4,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Fair",
+    "health_score": 84.9
+  },
+  {
+    "id": 63,
+    "asset_code": "AST-SEC-012-063",
+    "name": "Motorized Gang Operated Switch #63",
+    "section_id": 12,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Good",
+    "health_score": 85.9
+  },
+  {
+    "id": 64,
+    "asset_code": "AST-SEC-001-064",
+    "name": "Turnout No. 12 Curved #64",
+    "section_id": 1,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Good",
+    "health_score": 86.3
+  },
+  {
+    "id": 65,
+    "asset_code": "AST-SEC-001-065",
+    "name": "G3L Insulated Joint #65",
+    "section_id": 1,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Worn",
+    "health_score": 70.7
+  },
+  {
+    "id": 66,
+    "asset_code": "AST-SEC-011-066",
+    "name": "107 sq mm Hard Drawn Copper #66",
+    "section_id": 11,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Fair",
+    "health_score": 76.8
+  },
+  {
+    "id": 67,
+    "asset_code": "AST-SEC-006-067",
+    "name": "Cushion Depth 350mm Ballast #67",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Ballast Bed",
+    "condition": "Worn",
+    "health_score": 71.2
+  },
+  {
+    "id": 68,
+    "asset_code": "AST-SEC-002-068",
+    "name": "60kg 90UTS Rail Line #68",
+    "section_id": 2,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Fair",
+    "health_score": 76.1
+  },
+  {
+    "id": 69,
+    "asset_code": "AST-SEC-013-069",
+    "name": "Composite Insulator Swivelling Cantilever #69",
+    "section_id": 13,
+    "department_id": 3,
+    "type": "Cantilever Assembly",
+    "condition": "Fair",
+    "health_score": 78.2
+  },
+  {
+    "id": 70,
+    "asset_code": "AST-SEC-008-070",
+    "name": "G3L Insulated Joint #70",
+    "section_id": 8,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Worn",
+    "health_score": 72.3
+  },
+  {
+    "id": 71,
+    "asset_code": "AST-SEC-005-071",
+    "name": "Audio Frequency Track Circuit (AFTC) #71",
+    "section_id": 5,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Good",
+    "health_score": 95.0
+  },
+  {
+    "id": 72,
+    "asset_code": "AST-SEC-003-072",
+    "name": "60kg 90UTS Rail Line #72",
+    "section_id": 3,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Good",
+    "health_score": 86.7
+  },
+  {
+    "id": 73,
+    "asset_code": "AST-SEC-011-073",
+    "name": "Turnout No. 12 Curved #73",
+    "section_id": 11,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Good",
+    "health_score": 93.3
+  },
+  {
+    "id": 74,
+    "asset_code": "AST-SEC-002-074",
+    "name": "IRS Point Machine 220V #74",
+    "section_id": 2,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Good",
+    "health_score": 94.6
+  },
+  {
+    "id": 75,
+    "asset_code": "AST-SEC-006-075",
+    "name": "IRS Point Machine 220V #75",
+    "section_id": 6,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Fair",
+    "health_score": 81.2
+  },
+  {
+    "id": 76,
+    "asset_code": "AST-SEC-010-076",
+    "name": "107 sq mm Hard Drawn Copper #76",
+    "section_id": 10,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 98.8
+  },
+  {
+    "id": 77,
+    "asset_code": "AST-SEC-011-077",
+    "name": "60kg 90UTS Rail Line #77",
+    "section_id": 11,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Good",
+    "health_score": 98.4
+  },
+  {
+    "id": 78,
+    "asset_code": "AST-SEC-002-078",
+    "name": "G3L Insulated Joint #78",
+    "section_id": 2,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Good",
+    "health_score": 98.7
+  },
+  {
+    "id": 79,
+    "asset_code": "AST-SEC-006-079",
+    "name": "G3L Insulated Joint #79",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Glued Insulated Rail Joint",
+    "condition": "Fair",
+    "health_score": 77.8
+  },
+  {
+    "id": 80,
+    "asset_code": "AST-SEC-006-080",
+    "name": "Motorized Gang Operated Switch #80",
+    "section_id": 6,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Good",
+    "health_score": 97.2
+  },
+  {
+    "id": 81,
+    "asset_code": "AST-SEC-003-081",
+    "name": "Audio Frequency Track Circuit (AFTC) #81",
+    "section_id": 3,
+    "department_id": 2,
+    "type": "Track Circuit",
+    "condition": "Fair",
+    "health_score": 78.4
+  },
+  {
+    "id": 82,
+    "asset_code": "AST-SEC-006-082",
+    "name": "Cushion Depth 350mm Ballast #82",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Ballast Bed",
+    "condition": "Fair",
+    "health_score": 79.1
+  },
+  {
+    "id": 83,
+    "asset_code": "AST-SEC-003-083",
+    "name": "Motorized Gang Operated Switch #83",
+    "section_id": 3,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Worn",
+    "health_score": 70.4
+  },
+  {
+    "id": 84,
+    "asset_code": "AST-SEC-005-084",
+    "name": "Motorized Gang Operated Switch #84",
+    "section_id": 5,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Worn",
+    "health_score": 70.5
+  },
+  {
+    "id": 85,
+    "asset_code": "AST-SEC-005-085",
+    "name": "60kg 90UTS Rail Line #85",
+    "section_id": 5,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Good",
+    "health_score": 88.5
+  },
+  {
+    "id": 86,
+    "asset_code": "AST-SEC-008-086",
+    "name": "Cushion Depth 350mm Ballast #86",
+    "section_id": 8,
+    "department_id": 1,
+    "type": "Ballast Bed",
+    "condition": "Good",
+    "health_score": 95.7
+  },
+  {
+    "id": 87,
+    "asset_code": "AST-SEC-004-087",
+    "name": "107 sq mm Hard Drawn Copper #87",
+    "section_id": 4,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 95.0
+  },
+  {
+    "id": 88,
+    "asset_code": "AST-SEC-012-088",
+    "name": "Composite Insulator Swivelling Cantilever #88",
+    "section_id": 12,
+    "department_id": 3,
+    "type": "Cantilever Assembly",
+    "condition": "Worn",
+    "health_score": 74.2
+  },
+  {
+    "id": 89,
+    "asset_code": "AST-SEC-001-089",
+    "name": "IRS Point Machine 220V #89",
+    "section_id": 1,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Fair",
+    "health_score": 81.3
+  },
+  {
+    "id": 90,
+    "asset_code": "AST-SEC-012-090",
+    "name": "60kg 90UTS Rail Line #90",
+    "section_id": 12,
+    "department_id": 1,
+    "type": "Continuous Welded Rail",
+    "condition": "Good",
+    "health_score": 95.3
+  },
+  {
+    "id": 91,
+    "asset_code": "AST-SEC-002-091",
+    "name": "Motorized Gang Operated Switch #91",
+    "section_id": 2,
+    "department_id": 3,
+    "type": "Isolator Switch",
+    "condition": "Good",
+    "health_score": 89.2
+  },
+  {
+    "id": 92,
+    "asset_code": "AST-SEC-006-092",
+    "name": "Turnout No. 12 Curved #92",
+    "section_id": 6,
+    "department_id": 1,
+    "type": "Track Point / Switch",
+    "condition": "Worn",
+    "health_score": 74.9
+  },
+  {
+    "id": 93,
+    "asset_code": "AST-SEC-007-093",
+    "name": "IRS Point Machine 220V #93",
+    "section_id": 7,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Good",
+    "health_score": 89.2
+  },
+  {
+    "id": 94,
+    "asset_code": "AST-SEC-008-094",
+    "name": "Digital Axle Counter Multi-Section #94",
+    "section_id": 8,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Fair",
+    "health_score": 83.3
+  },
+  {
+    "id": 95,
+    "asset_code": "AST-SEC-015-095",
+    "name": "IRS Point Machine 220V #95",
+    "section_id": 15,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Good",
+    "health_score": 94.5
+  },
+  {
+    "id": 96,
+    "asset_code": "AST-SEC-008-096",
+    "name": "107 sq mm Hard Drawn Copper #96",
+    "section_id": 8,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 86.4
+  },
+  {
+    "id": 97,
+    "asset_code": "AST-SEC-007-097",
+    "name": "107 sq mm Hard Drawn Copper #97",
+    "section_id": 7,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 96.9
+  },
+  {
+    "id": 98,
+    "asset_code": "AST-SEC-004-098",
+    "name": "107 sq mm Hard Drawn Copper #98",
+    "section_id": 4,
+    "department_id": 3,
+    "type": "OHE Catenary Wire",
+    "condition": "Good",
+    "health_score": 87.5
+  },
+  {
+    "id": 99,
+    "asset_code": "AST-SEC-011-099",
+    "name": "Digital Axle Counter Multi-Section #99",
+    "section_id": 11,
+    "department_id": 2,
+    "type": "Axle Counter",
+    "condition": "Good",
+    "health_score": 96.1
+  },
+  {
+    "id": 100,
+    "asset_code": "AST-SEC-002-100",
+    "name": "IRS Point Machine 220V #100",
+    "section_id": 2,
+    "department_id": 2,
+    "type": "Point Machine",
+    "condition": "Fair",
+    "health_score": 76.0
+  }
+]

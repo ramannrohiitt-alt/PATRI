@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "train_number": "12004",
+    "name": "Lucknow Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 2,
+    "train_number": "22436",
+    "name": "Vande Bharat Express (Varanasi)",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 3,
+    "train_number": "12952",
+    "name": "Mumbai Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 4,
+    "train_number": "12302",
+    "name": "Howrah Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 5,
+    "train_number": "12011",
+    "name": "Kalka Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 6,
+    "train_number": "14041",
+    "name": "Mussoorie Express",
+    "train_type": "Passenger",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 7,
+    "train_number": "04408",
+    "name": "Palwal - New Delhi Shuttle",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 8,
+    "train_number": "04419",
+    "name": "Ghaziabad - Delhi EMU",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 9,
+    "train_number": "BOXN-401",
+    "name": "Coal Freightrake Dadri",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 10,
+    "train_number": "BTPN-108",
+    "name": "POL Tanker Container Mathura",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 11,
+    "train_number": "CONT-991",
+    "name": "CONCOR Container Freight",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 12,
+    "train_number": "MTN-001",
+    "name": "Northern Railway Tower Inspection Special",
+    "train_type": "Maintenance",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 13,
+    "train_number": "12004-13",
+    "name": "Lucknow Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 14,
+    "train_number": "22436-14",
+    "name": "Vande Bharat Express (Varanasi)",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 15,
+    "train_number": "12952-15",
+    "name": "Mumbai Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 16,
+    "train_number": "12302-16",
+    "name": "Howrah Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 17,
+    "train_number": "12011-17",
+    "name": "Kalka Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 18,
+    "train_number": "14041-18",
+    "name": "Mussoorie Express",
+    "train_type": "Passenger",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 19,
+    "train_number": "04408-19",
+    "name": "Palwal - New Delhi Shuttle",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 20,
+    "train_number": "04419-20",
+    "name": "Ghaziabad - Delhi EMU",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 21,
+    "train_number": "BOXN-401-21",
+    "name": "Coal Freightrake Dadri",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 22,
+    "train_number": "BTPN-108-22",
+    "name": "POL Tanker Container Mathura",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 23,
+    "train_number": "CONT-991-23",
+    "name": "CONCOR Container Freight",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 24,
+    "train_number": "MTN-001-24",
+    "name": "Northern Railway Tower Inspection Special",
+    "train_type": "Maintenance",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 25,
+    "train_number": "12004-25",
+    "name": "Lucknow Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 26,
+    "train_number": "22436-26",
+    "name": "Vande Bharat Express (Varanasi)",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 27,
+    "train_number": "12952-27",
+    "name": "Mumbai Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 28,
+    "train_number": "12302-28",
+    "name": "Howrah Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 29,
+    "train_number": "12011-29",
+    "name": "Kalka Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 30,
+    "train_number": "14041-30",
+    "name": "Mussoorie Express",
+    "train_type": "Passenger",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 31,
+    "train_number": "04408-31",
+    "name": "Palwal - New Delhi Shuttle",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 32,
+    "train_number": "04419-32",
+    "name": "Ghaziabad - Delhi EMU",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 33,
+    "train_number": "BOXN-401-33",
+    "name": "Coal Freightrake Dadri",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 34,
+    "train_number": "BTPN-108-34",
+    "name": "POL Tanker Container Mathura",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 35,
+    "train_number": "CONT-991-35",
+    "name": "CONCOR Container Freight",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 36,
+    "train_number": "MTN-001-36",
+    "name": "Northern Railway Tower Inspection Special",
+    "train_type": "Maintenance",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 37,
+    "train_number": "12004-37",
+    "name": "Lucknow Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 38,
+    "train_number": "22436-38",
+    "name": "Vande Bharat Express (Varanasi)",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 39,
+    "train_number": "12952-39",
+    "name": "Mumbai Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 40,
+    "train_number": "12302-40",
+    "name": "Howrah Rajdhani Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 41,
+    "train_number": "12011-41",
+    "name": "Kalka Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 42,
+    "train_number": "14041-42",
+    "name": "Mussoorie Express",
+    "train_type": "Passenger",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 43,
+    "train_number": "04408-43",
+    "name": "Palwal - New Delhi Shuttle",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 44,
+    "train_number": "04419-44",
+    "name": "Ghaziabad - Delhi EMU",
+    "train_type": "Passenger",
+    "priority_tier": 3,
+    "max_speed": 100
+  },
+  {
+    "id": 45,
+    "train_number": "BOXN-401-45",
+    "name": "Coal Freightrake Dadri",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 46,
+    "train_number": "BTPN-108-46",
+    "name": "POL Tanker Container Mathura",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 47,
+    "train_number": "CONT-991-47",
+    "name": "CONCOR Container Freight",
+    "train_type": "Goods",
+    "priority_tier": 4,
+    "max_speed": 100
+  },
+  {
+    "id": 48,
+    "train_number": "MTN-001-48",
+    "name": "Northern Railway Tower Inspection Special",
+    "train_type": "Maintenance",
+    "priority_tier": 2,
+    "max_speed": 100
+  },
+  {
+    "id": 49,
+    "train_number": "12004-49",
+    "name": "Lucknow Shatabdi Express",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  },
+  {
+    "id": 50,
+    "train_number": "22436-50",
+    "name": "Vande Bharat Express (Varanasi)",
+    "train_type": "Express",
+    "priority_tier": 1,
+    "max_speed": 130
+  }
+]

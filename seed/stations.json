@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "code": "NDLS",
+    "name": "New Delhi",
+    "lat": 28.6429,
+    "lng": 77.2195,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 2,
+    "code": "GZB",
+    "name": "Ghaziabad Junction",
+    "lat": 28.6678,
+    "lng": 77.4326,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 3,
+    "code": "ANVT",
+    "name": "Anand Vihar Terminal",
+    "lat": 28.6508,
+    "lng": 77.3153,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 4,
+    "code": "NZM",
+    "name": "Hazrat Nizamuddin",
+    "lat": 28.5888,
+    "lng": 77.2536,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 5,
+    "code": "FDB",
+    "name": "Faridabad",
+    "lat": 28.4089,
+    "lng": 77.3178,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 6,
+    "code": "PWL",
+    "name": "Palwal",
+    "lat": 28.1447,
+    "lng": 77.326,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 7,
+    "code": "DSA",
+    "name": "Delhi Shahdara",
+    "lat": 28.6738,
+    "lng": 77.2915,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 8,
+    "code": "SBB",
+    "name": "Sahibabad",
+    "lat": 28.6722,
+    "lng": 77.3683,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 9,
+    "code": "TKJ",
+    "name": "Tilak Bridge",
+    "lat": 28.6255,
+    "lng": 77.2415,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 10,
+    "code": "DEC",
+    "name": "Delhi Cantt",
+    "lat": 28.5957,
+    "lng": 77.1264,
+    "zone": "NR",
+    "division": "Delhi"
+  },
+  {
+    "id": 11,
+    "code": "HWH",
+    "name": "Howrah Junction (Kolkata)",
+    "lat": 22.5839,
+    "lng": 88.3426,
+    "zone": "SER",
+    "division": "Howrah"
+  },
+  {
+    "id": 12,
+    "code": "SRC",
+    "name": "Santragachi Junction",
+    "lat": 22.5802,
+    "lng": 88.2831,
+    "zone": "SER",
+    "division": "Kharagpur"
+  },
+  {
+    "id": 13,
+    "code": "MCA",
+    "name": "Mecheda",
+    "lat": 22.4285,
+    "lng": 87.8631,
+    "zone": "SER",
+    "division": "Kharagpur"
+  },
+  {
+    "id": 14,
+    "code": "KGP",
+    "name": "Kharagpur Junction",
+    "lat": 22.3298,
+    "lng": 87.3204,
+    "zone": "SER",
+    "division": "Kharagpur"
+  },
+  {
+    "id": 15,
+    "code": "JER",
+    "name": "Jaleswar",
+    "lat": 21.8055,
+    "lng": 87.2135,
+    "zone": "SER",
+    "division": "Kharagpur"
+  },
+  {
+    "id": 16,
+    "code": "BLS",
+    "name": "Balasore",
+    "lat": 21.4934,
+    "lng": 86.9325,
+    "zone": "SER",
+    "division": "Kharagpur"
+  },
+  {
+    "id": 17,
+    "code": "BHC",
+    "name": "Bhadrak",
+    "lat": 21.0577,
+    "lng": 86.5142,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 18,
+    "code": "JJKR",
+    "name": "Jajpur Keonjhar Road",
+    "lat": 20.9535,
+    "lng": 86.1362,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 19,
+    "code": "CTC",
+    "name": "Cuttack Junction",
+    "lat": 20.4625,
+    "lng": 85.8943,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 20,
+    "code": "BRAG",
+    "name": "Barang Junction",
+    "lat": 20.3956,
+    "lng": 85.8512,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 21,
+    "code": "MCS",
+    "name": "Mancheswar (Workshop)",
+    "lat": 20.3188,
+    "lng": 85.8569,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 22,
+    "code": "BBS",
+    "name": "Bhubaneswar",
+    "lat": 20.2648,
+    "lng": 85.8436,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 23,
+    "code": "KUR",
+    "name": "Khurda Road Junction",
+    "lat": 20.1783,
+    "lng": 85.7335,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 24,
+    "code": "PURI",
+    "name": "Puri Terminal",
+    "lat": 19.8143,
+    "lng": 85.834,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 25,
+    "code": "BALU",
+    "name": "Balugaon (Chilika Lake)",
+    "lat": 19.749,
+    "lng": 85.2078,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 26,
+    "code": "CAP",
+    "name": "Chatrapur (Ganjam HQ)",
+    "lat": 19.3562,
+    "lng": 84.9912,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  },
+  {
+    "id": 27,
+    "code": "BAM",
+    "name": "Brahmapur / Berhampur (Ganjam)",
+    "lat": 19.313,
+    "lng": 84.7937,
+    "zone": "ECoR",
+    "division": "Khurda Road"
+  }
+]
